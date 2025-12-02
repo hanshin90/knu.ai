@@ -1,5 +1,5 @@
 import streamlit as st
 
-st title("hello, kitty")
+st.title("hello, kitty")
 
-st write('good morning')
+st.write('good morning')
