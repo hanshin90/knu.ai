@@ -7,7 +7,7 @@ st.title('Hello, kitty')
 st.write('this is for deplying at streamlit')
 
 
-img = Image.open("Lenna.png")
+'''img = Image.open("Lenna.png")
 
 st.image(img)
 
@@ -19,3 +19,4 @@ streamlit
 opencv-python-headless
 numpy
 torch
+'''
