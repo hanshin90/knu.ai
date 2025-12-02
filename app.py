@@ -1,3 +1,5 @@
+import streamlit as st
 
+st title("hello, kitty")
 
-print("hello, kitty")
+st write('good morning')
