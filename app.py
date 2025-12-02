@@ -13,7 +13,7 @@ st.image(img)
 
 
 
-@requirements.txt;
+# requirements.txt;
 
 streamlit
 opencv-python-headless
