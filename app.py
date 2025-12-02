@@ -6,17 +6,6 @@ from PIL import Image
 st.title('Hello, kitty')
 st.write('this is for deplying at streamlit')
 
-
-'''img = Image.open("Lenna.png")
+img = Image.open("Lenna_(test_image)")
 
 st.image(img)
-
-
-
-# requirements.txt;
-
-streamlit
-opencv-python-headless
-numpy
-torch
-'''
